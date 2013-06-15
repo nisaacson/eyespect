@@ -15,7 +15,7 @@
     "MIT"
   ],
   "main": "./lib/eyes",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "scripts": {
     "test": "node test/*-test.js"
   },
